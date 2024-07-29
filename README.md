@@ -1,2 +1,2 @@
-# Projects
+# Design and Development of Adaptive Cruise Control with enhanced obstacle detection for Q-Car Platform
 This repository contains all of my Academic, Internship and Standalone projects....
